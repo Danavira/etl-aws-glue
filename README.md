@@ -1,2 +1,2 @@
 # etl-aws-glue
-Batch ETL pipeline on AWS Glue.
+Production-grade Batch ETL pipeline on AWS Glue, from S3 TO REDSHIFT.
